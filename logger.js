@@ -7,5 +7,3 @@ function log(message){
 
 module.exports.log = log;
 module.exports.endpoint = url;
-
-console.log(module);
