@@ -15,3 +15,7 @@ Node is a C++ program which includes V8 engine. It provides the runtime environm
 Use global.console.log(), instead window.console.log().
 
 Variables are not added to global object. They are scoped to the file. (Node uses a modular system. Every file in a Node application is a module)
+
+# console.log(module) 👍
+
+![module logged](modules.png)
